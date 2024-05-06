@@ -1,0 +1,28 @@
+name: binfie
+channels:
+ - default
+ - conda-forge
+ - bioconda
+
+dependencies:
+  - python >=3.10
+  - click
+  - pandas
+  - openpyxl
+  - minimap2
+  - samtools
+  - picard
+  - bcftools
+  - htslib
+  - bedtools
+  - dash
+  - pandas
+  - numpy
+  - pysam
+  - scipy
+  - seaborn
+  - pip
+  - jupyterlab
+  - notebook
+  - igv
+  - biopython
