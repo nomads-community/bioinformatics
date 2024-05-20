@@ -34,11 +34,11 @@ Now you will have download all the code and installed all the dependencies requi
 
 ## Running `Jupyter Notebook`
 
-[Jupyter Notebook](https://jupyter.org/) is a great tool for exploratory data analyses. It allows you to combine blocks of code, plots, and text and equations (via markdown) into a single file called a "notebook" (more information [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)). To launch `jupyter notebook`, navigate to the `nomads-workshop` directory and then type the following in your terminal:
+[Jupyter Notebook](https://jupyter.org/) is a great tool for exploratory data analyses. It allows you to combine blocks of code, plots, and text and equations (via markdown) into a single file called a "notebook" (more information [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)). To launch `jupyter notebook`, ensure you are in the `bioinformatics` github directory, that the `binfie` environemnt is activated  and then type the following in your terminal:
 
 ```
 jupyter notebook
 ```
 
-A new window should open in your internet browser (make sure you have activated the environment first), allowing you to navigate the directory and open the notebooks that are stored in the `/notebooks` directory.
+A new window should open in your internet browser, allowing you to navigate the directory and open the notebooks that are stored in the `/notebooks` directory.
 
